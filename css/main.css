@@ -134,7 +134,7 @@ h1 h2 h3 {
 }
 
 .button-primary:hover {
-	background-color: #FFCC80;
+	background-color: #FFCC00;
 }
 
 .promo-overlay {
@@ -243,10 +243,10 @@ div {
 }
 
 .headline {
-		margin: 0px 10px 10px 10px;
-		color: white;
-		/*font-size: 30px;*/
-	}
+	margin: 0px 10px 10px 10px;
+	color: white;
+	font-size: 45px;
+}
 
 /* #### Mobile Phones Portrait #### */
 
@@ -280,6 +280,12 @@ div {
 		clear: both;
 		height: 120px;
 
+	}
+
+	.headline {
+		margin: 0px 10px 10px 10px;
+		color: white;
+		font-size: 35px;
 	}
 
 
